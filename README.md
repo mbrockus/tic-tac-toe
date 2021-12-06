@@ -34,3 +34,7 @@ A browser based Tic Tac Toe game coded in JavaScript, HTML, and CSS
 -As a user, I want to be able to upload my own image as my token so that I can customize the game
 
 -As a user, I want to be able to play against a bot
+
+### Wireframes
+
+![Alt text](./assets/Wireframe.jpeg)
